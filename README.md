@@ -17,7 +17,7 @@
 ### 📚 About Me  
 - 🔧 I love building **robust backend systems** and solving complex problems.  
 - 🌱 Actively exploring new technologies in **Machine Learning** and **AI**.  
-- 🏆 Solved **1600+ Rating LeetCode**, achieved **2☆ on CodeChef**, and actively contribute on **GeeksforGeeks**.  
+- 🏆 Solved **1500+ Rating LeetCode**, achieved **2☆ on CodeChef**, **2☆ on GeeksforGeeks** and newbie on *Codeforces*
 - 💬 Open for collaborations in Backend Development and Machine Learning projects.  
 
 ---
