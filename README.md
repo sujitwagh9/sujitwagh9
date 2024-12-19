@@ -13,11 +13,17 @@
 - **Tools & Platforms**: Docker, Git 
 
 ---
+## Achievements
+
+- 🌟 Global Rank 737 in LeetCode Weekly Contest 428 among 24K participants
+- 🌟 1500+ Rated on LeetCode
+- 🌟 2-star rating on GeeksforGeeks
+- 🌟 1121 rating on CodeChef
+---
 
 ### 📚 About Me  
 - 🔧 I love building **robust backend systems** and solving complex problems.  
 - 🌱 Actively exploring new technologies in **Machine Learning** and **AI**.  
-- 🏆 Solved **1500+ Rating LeetCode**, achieved **2☆ on CodeChef**, **2☆ on GeeksforGeeks** and newbie on *Codeforces*
 - 💬 Open for collaborations in Backend Development and Machine Learning projects.  
 
 ---
