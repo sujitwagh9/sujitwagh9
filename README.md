@@ -17,8 +17,8 @@
 
 - 🌟 Global Rank 737 in LeetCode Weekly Contest 428 among 24K participants
 - 🌟 1500+ Rated on LeetCode
-- 🌟 2-star rating on GeeksforGeeks
-- 🌟 1299 rating on CodeChef
+- 🌟 3 ⭐ rating on GeeksforGeeks
+- 🌟 2 ⭐ rating on CodeChef
 ---
 
 ### 📚 About Me  
