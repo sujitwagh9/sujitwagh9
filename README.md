@@ -15,10 +15,10 @@
 ---
 ## Achievements
 
-- 🌟 Global Rank 737 in LeetCode Weekly Contest 428 among 24K participants
-- 🌟 1500+ Rated on LeetCode
-- 🌟 3 ⭐ rating on GeeksforGeeks
-- 🌟 2 ⭐ rating on CodeChef
+- Global Rank 737 in LeetCode Weekly Contest 428 among 24K participants
+- 1500+ Rated on LeetCode
+- 3 ⭐ rating on GeeksforGeeks
+- 2 ⭐ rating on CodeChef
 ---
 
 ### 📚 About Me  
@@ -27,23 +27,6 @@
 - 💬 Open for collaborations in Backend Development and Machine Learning projects.  
 
 ---
-
-### 🚀 Projects Highlights  
-Here are some of my notable projects (click for more):  
-#### **1. [Course-Aid](https://github.com/sujitwagh9/Course-Aid)**  
-A Learning Management System (LMS) for course management, doubt-solving, and instructor interactions. Built using **JavaScript** and **Node.js**.  
-
-#### **2. [Pneumonia Detection & Report Generation](https://github.com/sujitwagh9/Pneumonia-Detection-and-Report-Generation)**  
-Detects pneumonia using chest X-ray images and generates reports using **Python** and **Flask**.  
-
-#### **3. [Blog-App](https://github.com/sujitwagh9/Blog-App)**  
-A blogging platform with user authentication and CRUD functionalities. Built with **MERN** stack.  
-
-#### **4. [Animal Species Prediction](https://github.com/sujitwagh9/Animal-Species-Prediction)**  
-Classifies bird species and detects distress using spectrograms and **MobileNetV2**.  
-
-...and many more on my [GitHub repositories](https://github.com/sujitwagh9)!
-
 
 ### 🌐 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sujitwagh9)  
