@@ -30,7 +30,7 @@
 
 ### 🌐 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sujitwagh9)  
-- 🐦 [Twitter]([https://twitter.com/sujitwagh9](https://x.com/IamSujitWagh))
+- 🐦 [Twitter](https://x.com/IamSujitWagh)
 - 📧 **Email**: sujitwagh1233@gmail.com  
 - 🌟 [GitHub Profile](https://github.com/sujitwagh9)  
 
