@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A3D,100:3DD6C4&height=190&section=header&text=Sujit%20Wagh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20%26%20AI%20Engineer%20%C2%B7%20Kalyani%20Group&descSize=18&descAlignY=58" alt="Sujit Wagh" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=FF7A3D&center=true&vCenter=true&width=720&lines=%F0%9F%9B%A0%EF%B8%8F+I+build+things+end+to+end.;%F0%9F%A7%A0+Deep+learning+models+that+read+X-rays+and+hear+animals.;%F0%9F%8C%90+Full-stack+apps+people+actually+use.;%F0%9F%A4%96+LLM+agents+and+MCP+tools+on+the+side." alt="typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=FF7A3D&center=true&vCenter=true&width=640&lines=I+build+self-hosted+data+platforms.;NiFi+%E2%86%92+PostgreSQL+%E2%86%92+Superset%2C+all+in+Docker.;Then+I+teach+them+to+answer+in+plain+English." alt="I build self-hosted data platforms" />
+  <img src="https://komarev.com/ghpvc/?username=sujitwagh9&label=Profile%20views&color=FF7A3D&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/sujitwagh9?style=for-the-badge&color=3DD6C4&labelColor=0B0D10&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Pune%2C%20India-0B0D10?style=for-the-badge&logo=googlemaps&logoColor=3DD6C4" alt="Pune" />
 </p>
 
 <p align="center">
@@ -15,108 +17,163 @@
 </p>
 
 <p align="center">
-  Data & AI Engineer on the Data Platform team at the <b>Kalyani Group</b>, Pune.<br/>
-  I joined as an AI/ML intern, took the group's data platform from research to production,<br/>
-  and now run it full time. B.Tech IT, VIT Pune (CGPA 8.68).
+  Engineer who likes taking an idea from a blank file to something running.<br/>
+  I work across ML, backend and frontend, and I enjoy problems where those meet.<br/>
+  By day I'm a <b>Data &amp; AI Engineer at the Kalyani Group</b>. <i>B.Tech IT, VIT Pune (CGPA 8.68).</i>
+</p>
+
+<br/>
+
+## ⚡ At a glance
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h3>🧱 18</h3><sub>public repos<br/>and counting</sub></td>
+    <td align="center" width="25%"><h3>🏆 3</h3><sub>hackathon wins<br/>&amp; podiums</sub></td>
+    <td align="center" width="25%"><h3>🌍 #737</h3><sub>LeetCode Weekly 428<br/>out of 24K+</sub></td>
+    <td align="center" width="25%"><h3>🦈 Pull Shark</h3><sub>GitHub achievement<br/>unlocked</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+## 🧰 Tech arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,flask,mongodb,postgres,mysql,redis,docker,linux,azure,git&perline=9" alt="Tech icons" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF7A3D?style=for-the-badge&logo=python&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-3DD6C4?style=for-the-badge&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Audio%20ML-C77DFF?style=for-the-badge&logoColor=white" alt="Audio ML" />
+  <img src="https://img.shields.io/badge/LLM%20agents-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="LLM agents" />
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+</p>
+
+<br/>
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🫁 <a href="https://github.com/sujitwagh9/Pneumonia-Detection-and-Report-Generation">Pneumonia Detection</a></h3>
+      Reads a chest X-ray, flags pneumonia, highlights the evidence with heatmaps and writes up a report.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/CNN-FF7A3D?style=flat-square" /> <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐦 <a href="https://github.com/sujitwagh9/Animal-Species-Prediction">Animal Species &amp; Pain Detection</a></h3>
+      Classifies bird species and spots signs of distress in animal sounds, using MobileNetV2 on spectrograms and MFCC features.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MobileNetV2-FF7A3D?style=flat-square" /> <img src="https://img.shields.io/badge/Audio%20ML-C77DFF?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📍 Dark Store Network</h3>
+      Plans where dark stores should go using demand clustering and Voronoi maps. <b>2nd Runner-Up at Hackron'25 (Blinkit).</b><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 <a href="https://github.com/sujitwagh9/myportfolio">myportfolio</a></h3>
+      A portfolio that talks back: AI assistant, job-fit analyzer and semantic search.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More things I've built</b> &nbsp;·&nbsp; click to expand</summary>
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Course-Aid**](https://github.com/sujitwagh9/Course-Aid) | Learning management system: students enroll, ask instructors doubts and track progress; instructors upload courses | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**CampusFound**](https://github.com/sujitwagh9/CampusFound) | Report, track and claim lost and found items on campus | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| [**Anomaly Detector**](https://github.com/sujitwagh9/anamoly-detector) | Finds anomalies in time-series data | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/ML-3DD6C4?style=flat-square) |
+| [**KrishiSetu**](https://github.com/sujitwagh9/KrishiSetu) | Connects farmers directly to the market | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**BloodBank**](https://github.com/sujitwagh9/BloodBank) | Static website for a blood bank | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+
+</details>
+
+<br/>
+
+##  GitHub stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sujitwagh9&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=FF7A3D&icon_color=3DD6C4&text_color=E6E6E6&ring_color=FF7A3D&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitwagh9&layout=compact&hide_border=true&bg_color=0B0D10&title_color=FF7A3D&text_color=E6E6E6&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,postgres,mysql,mongodb,redis,docker,nginx,grafana,prometheus,linux,azure,react,nextjs,nodejs,flask,git&perline=10" alt="Python, C++, Java, JavaScript, TypeScript, PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx, Grafana, Prometheus, Linux, Azure, React, Next.js, Node.js, Flask, Git" />
+  <img src="https://streak-stats.demolab.com?user=sujitwagh9&theme=dark&hide_border=true&background=0B0D10&ring=FF7A3D&fire=3DD6C4&currStreakLabel=FF7A3D&sideLabels=3DD6C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA0A6" alt="GitHub streak" />
 </p>
+
+### Contribution graph
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=flat-square&logo=apachenifi&logoColor=white" alt="Apache NiFi" />
-  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white" alt="Apache Superset" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/LLM%20agents-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="LLM agents" />
-  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitwagh9&bg_color=0B0D10&color=FF7A3D&line=3DD6C4&point=FFFFFF&area=true&area_color=3DD6C4&hide_border=true&radius=12" alt="Contribution graph" />
 </p>
+
+### Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujitwagh9/sujitwagh9/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujitwagh9/sujitwagh9/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sujitwagh9/sujitwagh9/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
+## Wins &amp; milestones
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h3>🥉</h3><b>Hackron'25</b><br/>Blinkit<br/><sub>2nd Runner-Up · ₹10,000</sub></td>
+    <td align="center" width="25%"><h3>🥇</h3><b>Vodafone Idea<br/>Tech Marathon</b><br/><sub>Winner · ₹25,000<br/>dashboard in 90 min</sub></td>
+    <td align="center" width="25%"><h3>🥇</h3><b>Kalyani Group<br/>Hackathon</b><br/><sub>Winner · top 7 picked<br/>for an internship</sub></td>
+    <td align="center" width="25%"><h3>🌍</h3><b>LeetCode Weekly 428</b><br/><sub>Global rank 737<br/>out of 24K+</sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://leetcode.com/u/sujitwagh9/"><img src="https://leetcard.jacoblin.cool/sujitwagh9?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=12" alt="LeetCode: problems solved and contest rating" /></a>
 </p>
 
-<details>
-<summary><b>The platform I built</b> &nbsp;·&nbsp; click to expand</summary>
+<p align="center"><sub>LeetCode 1550 · GeeksforGeeks 3★ · CodeChef 2★</sub></p>
+
 <br/>
 
-Live in **5 production environments** across the group, replacing paid SaaS tools.
-
-```mermaid
-flowchart LR
-  SRC[(Source systems)] --> NIFI
-
-  subgraph PLATFORM [Data Platform on Docker]
-    direction LR
-    NIFI[Apache NiFi<br/>ingest + transform] --> PG[(PostgreSQL)] --> SUP[Apache Superset<br/>dashboards]
-    PGA[pgAgent<br/>custom image] -. schedules .-> PG
-  end
-
-  SUP --> TEAMS([Business teams])
-  PG -. in progress .-> P2D[Prompt to Dashboard<br/>LLM agent] -.-> TEAMS
-  MON[Grafana + Prometheus] -. monitors .-> PLATFORM
-  SEC[Nginx TLS + Azure AD SSO] -. secures .-> PLATFORM
-
-  classDef core fill:#FF7A3D,stroke:#FF7A3D,color:#0B0D10
-  classDef ops fill:#3DD6C4,stroke:#3DD6C4,color:#0B0D10
-  class NIFI,PG,SUP core
-  class MON,SEC,PGA ops
-```
-
-| | |
-|---|---|
-| **1.4 TB → 18 GB** | Archived IoT production data for a team that was running out of storage |
-| **pgAgent in Docker** | Built the image myself; no official one existed |
-| **Azure AD SSO** | OAuth 2.0 / OIDC sign-in for Superset, with users mapped to Superset roles |
-| **Config Manager** | Generates each deployment's configuration from a few inputs |
-| **Encrypted Compose** | A unique key per deployment, kept out of shell history |
-
-</details>
-
-<details>
-<summary><b>Projects</b> &nbsp;·&nbsp; click to expand</summary>
-<br/>
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**myportfolio**](https://github.com/sujitwagh9/myportfolio) | Portfolio with an AI assistant, job-fit analyzer and semantic search | Next.js, TypeScript, Gemini |
-| [**Pneumonia Detection**](https://github.com/sujitwagh9/Pneumonia-Detection-and-Report-Generation) | Detects pneumonia from chest X-rays and writes a report, with heatmaps | Python, CNN, Flask |
-| **Dark Store Network** | Plans dark-store placement with demand clustering and Voronoi maps | Next.js, Flask, MongoDB |
-| [**CampusFound**](https://github.com/sujitwagh9/CampusFound) | Report, track and claim lost and found items on campus | JavaScript, Node.js |
-| [**Anomaly Detector**](https://github.com/sujitwagh9/anamoly-detector) | Finds anomalies in time-series data | Python, ML |
-| [**KrishiSetu**](https://github.com/sujitwagh9/KrishiSetu) | Connects farmers directly to the market | JavaScript |
-
-</details>
-
-<details>
-<summary><b>Achievements</b> &nbsp;·&nbsp; click to expand</summary>
-<br/>
-
-| | |
-|---|---|
-| **Hackron'25** (Blinkit) | 2nd Runner-Up · ₹10,000 · Dark Store Network Projection System |
-| **Vodafone Idea Tech Marathon** | Winner · ₹25,000 · threat-analysis dashboard built in 90 minutes |
-| **Kalyani Group Hackathon** | Winner · one of the top 7 applicants selected for an internship |
-| **LeetCode Weekly Contest 428** | Global rank 737 out of 24K+ |
-| **Ratings** | LeetCode 1550 · GeeksforGeeks 3★ · CodeChef 2★ |
-
-</details>
-
-<details>
-<summary><b>Timeline</b> &nbsp;·&nbsp; click to expand</summary>
-<br/>
+## 🛤️ Journey
 
 ```mermaid
 timeline
   2022 : Started B.Tech IT at VIT Pune
   2025 : Mar - 2nd Runner-Up at Hackron'25
        : Jul - AI/ML Intern at Kalyani Group
-       : Data platform V1 goes live
   2026 : Jun - Graduated, CGPA 8.68
        : Jul - Data & AI Engineer at Kalyani Group
 ```
 
-</details>
+<br/>
+
+## 🔭 Right now
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top"><h4>🔨 Building</h4>LLM agents and MCP tools that let people talk to their data in plain English.</td>
+    <td width="33%" valign="top"><h4>📚 Learning</h4>Agent design, deeper ML, and shipping models behind clean APIs.</td>
+    <td width="33%" valign="top"><h4>💬 Ask me about</h4>Hackathon strategy, ML projects, full-stack builds, and LeetCode.</td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DD6C4,100:FF7A3D&height=100&section=footer" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=3DD6C4&center=true&vCenter=true&width=600&lines=Got+an+idea%3F+Let's+build+it.;Open+to+collaborations+%26+good+conversations+%E2%98%95" alt="footer line" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DD6C4,50:C77DFF,100:FF7A3D&height=120&section=footer" alt="" />
 </p>
